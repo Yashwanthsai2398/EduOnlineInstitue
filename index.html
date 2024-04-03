@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="index.css" />
+    <style>
+      /* Basic styling for the cards */
+      .row {
+        display: flex; /* Display children in a row */
+        justify-content: space-between; /* Distribute space between cards */
+        padding: 1rem;
+      }
+
+      .card {
+        flex-basis: calc(
+          50% - 10px
+        ); /* Each card takes 50% width minus some spacing */
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        background-color: #f9f9f9;
+        margin-right: 30px; /* Add spacing between cards */
+      }
+    </style>
+  </head>
+  <body style="background-color: #98FF98;">
+    <div style="text-align: justify; text-justify: inter-word">
+      <h1 style="padding: 2.5rem; font-size: 3rem; text-align: center">EduOn</h1>
+      <div
+        style="
+          text-align: left;
+          padding-left: 3.5rem;
+          font-size: 1.2rem;
+          padding-right: 3rem;
+        "
+      >
+        <div>
+          <p>
+            Welcome to EduOn, your gateway to a world of knowledge and
+            opportunity. With our cutting-edge online platform, we're
+            revolutionizing the way you learn, connecting you to top-tier
+            educators and resources from anywhere, anytime. Whether you're a
+            professional looking to upskill, a student seeking academic
+            enrichment, or an enthusiast exploring new interests, EduOn offers a
+            diverse range of courses to cater to your individual needs and
+            aspirations. Our user-friendly interface, interactive learning
+            materials, and personalized support ensure that you can thrive in
+            your educational journey, no matter your background or schedule.
+          </p>
+          <p>
+            At EduOn, we believe that education should be accessible to all,
+            regardless of geographical or financial constraints. That's why
+            we're committed to providing affordable and inclusive learning
+            opportunities, empowering learners of all ages and backgrounds to
+            unlock their full potential. Join our vibrant community of learners
+            today and embark on a transformative educational experience with
+            EduOn. Together, let's embrace the future of learning and shape a
+            brighter tomorrow.
+          </p>
+        </div>
+        <div>
+          <h4 style="padding-top: 2rem">AIM OF "EDUON"</h4>
+          <p>
+            The aim of EduOn is to democratize education and make learning
+            accessible to everyone, regardless of their geographical location,
+            financial status, or background. We strive to break down barriers to
+            traditional education by providing a diverse range of high-quality
+            courses taught by experts from around the world. Through our
+            innovative online platform, we aim to empower individuals to pursue
+            their passions, advance their careers, and embrace lifelong
+            learning. Additionally, we aim to foster a supportive and inclusive
+            learning community where learners can connect, collaborate, and grow
+            together. Ultimately, our goal is to inspire and enable learners to
+            achieve their full potential and make a positive impact in their
+            lives and communities.
+          </p>
+        </div>
+
+        <div style="padding-top: 3rem">
+          <h3>LIST OF COURSES OFFERED:</h3>
+
+          <div class="row">
+            <a href="webDev.html" class="card">
+              <h2>The Web Development Bootcamp</h2>
+              <p style="font-size: smaller; opacity: 30%">Instructor: Sarah Miller</p>
+              <p>$500</p>
+            </a>
+            <a href="java.html" class="card">
+              <h2>The Java Development Bootcamp</h2>
+              <p style="font-size: smaller; opacity: 30%">Instructor: David Wilson</p>
+              <p>$400</p>
+            </a>
+          </div>
+
+          <div class="row">
+            <a href="python.html" class="card">
+              <h2>The Python Development Bootcamp</h2>
+              <p style="font-size: smaller; opacity: 30%">Instructor: Jessica Smith</p>
+              <p>$400</p>
+            </a>
+            <a href="business.html" class="card">
+              <h2>The Ultimate Investment Banking Bootcamp</h2>
+              <p style="font-size: smaller; opacity: 30%">Instructor: John Doe</p>
+              <p>$300</p>
+            </a>
+          </div>
+
+          <div class="row">
+            <a href="graphics.html" class="card">
+              <h2>The Graphic Design Bootcamp</h2>
+              <p style="font-size: smaller; opacity: 30%">Instructor: Emily Johnson</p>
+              <p>$700</p>
+            </a>
+            <a href="guitar.html" class="card">
+              <h2>Guitar: The Next Level</h2>
+              <p style="font-size: smaller; opacity: 30%">Instructor: Michael Brown</p>
+              <p>$300</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="" async defer></script>
+  </body>
+
+  <footer style="padding-top: 10rem; text-align: center">
+    <p>&copy; 2024 EduOn Inc</p>
+  </footer>
+</html>

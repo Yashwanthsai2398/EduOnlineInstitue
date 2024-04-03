@@ -1,0 +1,949 @@
+<https://dbpedia.org/page/Intermediate_Level>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/DifficultyLevel>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Intermediate Level" .
+
+<https://dbpedia.org/page/Financial_Modeling_for_Business_Analysts_and_Consultants>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Financial Modeling for Business Analysts and Consultants";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "2.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/financial-modeling-for-business-analysts-and-consultants/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Intermediate_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "51";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "74";
+        <https://dbpedia.org/ontology/price>
+                "45";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-12-19T19:26:30Z" .
+
+<https://dbpedia.org/page/Instant_Harmonica_-_Christmas_Play_Jingle_Bells_Part_1_now>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Instant Harmonica - Christmas Play Jingle Bells Part 1 now";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "0.7hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/instant-harmonica-christmas-play-jingle-bells-part-1-now/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "10";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "11";
+        <https://dbpedia.org/ontology/price>
+                "20";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-12-11T18:42:43Z" .
+
+<https://dbpedia.org/page/Create_Professional_Looking_Infographics_With_No_Experience>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Create Professional Looking Infographics With No Experience";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "2hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/create-professional-looking-infographics/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "21";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "104";
+        <https://dbpedia.org/ontology/price>
+                "180";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-03-21T19:00:13Z" .
+
+<https://dbpedia.org/page/Logo_Design_in_Adobe_Illustrator_-_for_Beginners__Beyond>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Logo Design in Adobe Illustrator - for Beginners  Beyond";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "7.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/logodesign/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "110";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "337";
+        <https://dbpedia.org/ontology/price>
+                "200";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-10-01T21:40:39Z" .
+
+<https://dbpedia.org/page/Learn_Adobe_Illustrator_Semi-Automatic_Mandalas_Drawing>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Learn Adobe Illustrator Semi-Automatic Mandalas Drawing";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/learn-adobe-illustrator-semi-automatic-mandalas-drawing/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "15";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "15";
+        <https://dbpedia.org/ontology/price>
+                "200";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-05-22T22:53:46Z" .
+
+<https://dbpedia.org/page/How_To_Make_A_Wordpress_Website_2017__Divi_Theme_Tutorial>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "How To Make A Wordpress Website 2017  Divi Theme Tutorial";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "4hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/how-to-make-a-wordpress-website-2017-divi-theme-tutorial/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "37";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "202";
+        <https://dbpedia.org/ontology/price>
+                "40";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-01-26T22:15:02Z" .
+
+<https://dbpedia.org/page/Discover_How_to_Draw_and_paint_Comics>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Discover How to Draw and paint Comics";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "62hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/learn-to-draw-and-paint/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "85";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "424";
+        <https://dbpedia.org/ontology/price>
+                "65";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2012-11-21T22:03:54Z" .
+
+<https://dbpedia.org/page/Playing_Piano__Popular_Pieces_Vol_II>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Playing Piano  Popular Pieces Vol II";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/playing-piano-popular-pieces-volii/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "24";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "4";
+        <https://dbpedia.org/ontology/price>
+                "150";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-03-31T17:24:49Z" .
+
+<https://dbpedia.org/page/7_Ways_A_Beginner_Guitarist_Can_Sound_Better_Instantly>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "7 Ways A Beginner Guitarist Can Sound Better Instantly";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "0.6hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/nationalguitaracademy/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "7";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "193";
+        <https://dbpedia.org/ontology/price>
+                "0";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-12-21T18:50:50Z" .
+
+<https://dbpedia.org/page/Pentatonic_Scale_Crash_Course_for_Bass_Guitar>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Pentatonic Scale Crash Course for Bass Guitar";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/pentatonic-scale-crash-course-for-bass-guitar/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Intermediate_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "24";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "6";
+        <https://dbpedia.org/ontology/price>
+                "0";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-06-15T18:35:07Z" .
+
+<https://dbpedia.org/page/Anatomy_and_Figure_Drawing_for_Beginners>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Anatomy and Figure Drawing for Beginners";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "21hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/anatomy-and-figure-drawing-for-games-and-comics/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "111";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "240";
+        <https://dbpedia.org/ontology/price>
+                "150";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-06-20T15:31:48Z" .
+
+<https://dbpedia.org/page/Illustrator_CC_MasterClass>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Illustrator CC MasterClass";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "12hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/illustrator-cc-masterclass/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "86";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "50";
+        <https://dbpedia.org/ontology/price>
+                "95";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-05-02T16:41:21Z" .
+
+<https://dbpedia.org/page/Graphic_Design>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Subject>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Graphic Design" .
+
+<https://dbpedia.org/page/Angular_and_Firebase_-_Build_a_Web_App_with_Typescript>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Angular and Firebase - Build a Web App with Typescript";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/angular-firebase-application/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "65";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "359";
+        <https://dbpedia.org/ontology/price>
+                "150";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-09-27T21:46:03Z" .
+
+<https://dbpedia.org/page/Web_Development_Masterclass_-_Complete_Certificate_Course>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Web Development Masterclass - Complete Certificate Course";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "19.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/web-development-masterclass-complete-certificate-course/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "348";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "178";
+        <https://dbpedia.org/ontology/price>
+                "200";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-10-12T03:14:13Z" .
+
+<https://dbpedia.org/page/Trading_Penny_Stocks_A_Guide_for_All_Levels_In_2017>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Trading Penny Stocks A Guide for All Levels In 2017";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "3hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/trading-penny-stocks-a-guide-for-all-levels/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "25";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "138";
+        <https://dbpedia.org/ontology/price>
+                "150";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2014-05-02T15:13:30Z" .
+
+<https://dbpedia.org/page/Ultimate_Investment_Banking_Course>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Ultimate Investment Banking Course";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/ultimate-investment-banking-course/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "51";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "23";
+        <https://dbpedia.org/ontology/price>
+                "200";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-01-18T20:58:58Z" .
+
+<https://dbpedia.org/page/Spring_Boot_Tutorial_For_Beginners>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Spring Boot Tutorial For Beginners";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "5.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/spring-boot-tutorial-for-beginners/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "39";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "210";
+        <https://dbpedia.org/ontology/price>
+                "40";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-01-23T15:13:53Z" .
+
+<https://dbpedia.org/page/All_Levels>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/DifficultyLevel>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "All Levels" .
+
+<https://dbpedia.org/page/Learn_Fun_Dreamy_Piano_Techniques_1_-__Play_White_Christmas>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Learn Fun Dreamy Piano Techniques 1 -  Play White Christmas";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "2hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/learn-piano-christmas-song-play-dreamy-piano-music-white-christmas/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "102";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "10";
+        <https://dbpedia.org/ontology/price>
+                "80";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-10-20T22:41:19Z" .
+
+<https://dbpedia.org/page/Projects_in_HTML5>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Projects in HTML5";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "15.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/projects-in-html5/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Intermediate_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "75";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "206";
+        <https://dbpedia.org/ontology/price>
+                "60";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2014-06-17T05:43:50Z" .
+
+<https://dbpedia.org/page/Canva_Graphics_Design_Essential_Training_For_Everyone>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Canva Graphics Design Essential Training For Everyone";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "2.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/canva-graphics-design-essential-training/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "46";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "124";
+        <https://dbpedia.org/ontology/price>
+                "200";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-03-07T03:54:27Z" .
+
+<https://dbpedia.org/page/Programming_Foundations_HTML5_+_CSS3_for_Entrepreneurs_2015>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Programming Foundations HTML5 + CSS3 for Entrepreneurs 2015";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "5.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/html-css-more/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "58";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "490";
+        <https://dbpedia.org/ontology/price>
+                "20";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-10-17T04:52:25Z" .
+
+<https://dbpedia.org/page/Options_Trading_3__Advanced_Stock_Profit_and_Success_Method>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Options Trading 3  Advanced Stock Profit and Success Method";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "2.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/day-trading-stock-options-3/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Expert_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "38";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "34";
+        <https://dbpedia.org/ontology/price>
+                "195";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-05-28T00:14:03Z" .
+
+<https://dbpedia.org/page/Trading_Stock_Chart_Patterns_For_Immediate_Explosive_Gains>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Trading Stock Chart Patterns For Immediate Explosive Gains";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "2.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/trading-chart-patterns-for-immediate-explosive-gains/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "23";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "148";
+        <https://dbpedia.org/ontology/price>
+                "95";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-01-30T22:13:03Z" .
+
+<https://dbpedia.org/page/Adobe_Illustrator_T-Shirt_Design_for_Merch_by_Amazon>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Adobe Illustrator T-Shirt Design for Merch by Amazon";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/merchbyamazondesign/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "15";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "44";
+        <https://dbpedia.org/ontology/price>
+                "20";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-06-13T20:41:14Z" .
+
+<https://dbpedia.org/page/Complete_GST_Course__Certification_-_Grow_Your_CA_Practice>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Complete GST Course  Certification - Grow Your CA Practice";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "39hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/goods-and-services-tax/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "274";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "923";
+        <https://dbpedia.org/ontology/price>
+                "75";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-03-09T16:34:20Z" .
+
+<https://dbpedia.org/page/How_To_Maximize_Your_Profits_Trading_Options>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "How To Maximize Your Profits Trading Options";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "2hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/how-to-maximize-your-profits-trading-options/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Intermediate_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "26";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "45";
+        <https://dbpedia.org/ontology/price>
+                "200";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-12-13T14:57:18Z" .
+
+<https://dbpedia.org/page/Learn_To_Play_The_Drums_Without_A_Drum_Kit>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Learn To Play The Drums Without A Drum Kit";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "2hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/learn-to-play-the-drums-without-a-drum-kit/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "39";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "52";
+        <https://dbpedia.org/ontology/price>
+                "25";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2014-06-27T21:54:58Z" .
+
+<https://dbpedia.org/page/Typographic_Logo_Design_in_Illustrator_-_Beginners__Beyond>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Typographic Logo Design in Illustrator - Beginners  Beyond";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/typographical-logo-design/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "27";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "40";
+        <https://dbpedia.org/ontology/price>
+                "150";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-02-23T21:40:39Z" .
+
+<https://dbpedia.org/page/Business_Finance>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Subject>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Business Finance" .
+
+<https://dbpedia.org/page/Beginner_to_Pro_-_Financial_Analysis_in_Excel_2017>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Beginner to Pro - Financial Analysis in Excel 2017";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "3hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/complete-excel-finance-course-from-beginner-to-pro/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "36";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "11";
+        <https://dbpedia.org/ontology/price>
+                "95";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-05-30T20:07:24Z" .
+
+<https://dbpedia.org/page/ChatBots_Messenger_ChatBot_with_APIAI_and_NodeJS>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "ChatBots Messenger ChatBot with APIAI and NodeJS";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "4.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/chatbots/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "64";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "529";
+        <https://dbpedia.org/ontology/price>
+                "50";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-06-30T16:57:08Z" .
+
+<https://dbpedia.org/page/Musical_Instruments>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Subject>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Musical Instruments" .
+
+<https://dbpedia.org/page/Ninja_Chord_Changes_-_Master_your_guitar_chord_changes>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Ninja Chord Changes - Master your guitar chord changes";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/ninja-chord-changes/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "13";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "11";
+        <https://dbpedia.org/ontology/price>
+                "30";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-03-29T21:57:12Z" .
+
+<https://dbpedia.org/page/Modal_Theory_for_Guitar_(Guitar_Lessons_from_Lutz_Academy)>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Modal Theory for Guitar (Guitar Lessons from Lutz Academy)";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/modal-theory-for-guitar/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "9";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "29";
+        <https://dbpedia.org/ontology/price>
+                "50";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-05-06T15:32:00Z" .
+
+<https://dbpedia.org/page/Web_Development>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Subject>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Web Development" .
+
+<https://dbpedia.org/page/Your_First_10_Guitar_Lessons_-_Learn_how_to_play_guitar>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Your First 10 Guitar Lessons - Learn how to play guitar";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/your-first-10-guitar-lessons-learn-how-to-play-guitar/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "18";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "4";
+        <https://dbpedia.org/ontology/price>
+                "0";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-06-29T00:29:36Z" .
+
+<https://dbpedia.org/page/Learn_Jazz_Piano_Today>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Learn Jazz Piano Today";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "3hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/learn-jazz-piano-with-willie-today/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Musical_Instruments>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "44";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "66";
+        <https://dbpedia.org/ontology/price>
+                "50";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2014-01-24T18:17:37Z" .
+
+<https://dbpedia.org/page/Photoshop_in_Ease_Create_World_Amazing__Graphic_Designs>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Photoshop in Ease Create World Amazing  Graphic Designs";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "3hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/photoshop-knights-become-a-professional-in-no-time/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "26";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "182";
+        <https://dbpedia.org/ontology/price>
+                "20";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-08-13T21:17:34Z" .
+
+<https://dbpedia.org/page/Typographic_Logos_Typography_and_Lettering_for_Logo_Design>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Typographic Logos Typography and Lettering for Logo Design";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/typographic-logos-typography-and-lettering-for-logo-design/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Graphic_Design>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Intermediate_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "20";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "427";
+        <https://dbpedia.org/ontology/price>
+                "25";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2014-10-16T19:30:01Z" .
+
+<https://dbpedia.org/page/Build_Your_Own_Backend_REST_API_using_Django_REST_Framework>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Build Your Own Backend REST API using Django REST Framework";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "5.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/django-python/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Intermediate_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "72";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "112";
+        <https://dbpedia.org/ontology/price>
+                "50";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2017-04-27T19:21:11Z" .
+
+<https://dbpedia.org/page/Investing_And_Trading_For_Beginners_Mastering_Price_Charts>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Investing And Trading For Beginners Mastering Price Charts";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "1hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/investing-and-trading-for-beginners-mastering-price-charts/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Business_Finance>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/Beginner_Level>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "26";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "178";
+        <https://dbpedia.org/ontology/price>
+                "65";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2016-02-21T18:23:12Z" .
+
+<https://dbpedia.org/page/Expert_Level>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/DifficultyLevel>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Expert Level" .
+
+<https://dbpedia.org/page/Learn_Web_Designing__HTML5/CSS3_Essentials_in_4-Hours>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Learn Web Designing  HTML5/CSS3 Essentials in 4-Hours";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "4hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/build-beautiful-html5-website/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "24";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "525";
+        <https://dbpedia.org/ontology/price>
+                "75";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2013-01-03T00:55:31Z" .
+
+<https://dbpedia.org/page/Beginner_Level>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/DifficultyLevel>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Beginner Level" .
+
+<https://dbpedia.org/page/Learning_Dynamic_Website_Design_-_PHP_MySQL_and_JavaScript>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "Learning Dynamic Website Design - PHP MySQL and JavaScript";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "12.5hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/learning-dynamic-website-design/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "125";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "285";
+        <https://dbpedia.org/ontology/price>
+                "50";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2012-06-18T16:52:34Z" .
+
+<https://dbpedia.org/page/The_Complete_Bootstrap_Masterclass_Course_-_Build_4_Projects>
+        <http://www.w3.org/1999/02/22-rdf-syntax-ns/type>
+                <https://dbpedia.org/ontology/Course>;
+        <http://www.w3.org/2000/01/rdf-schema/title>
+                "The Complete Bootstrap Masterclass Course - Build 4 Projects";
+        <https://dbpedia.org/ontology/Content_Duration>
+                "7hrs";
+        <https://dbpedia.org/ontology/Link>
+                "https://www.udemy.com/bootstrapcourse/";
+        <https://dbpedia.org/ontology/belongsTo>
+                <https://dbpedia.org/page/Web_Development>;
+        <https://dbpedia.org/ontology/hasLevel>
+                <https://dbpedia.org/page/All_Levels>;
+        <https://dbpedia.org/ontology/noOfLectures>
+                "67";
+        <https://dbpedia.org/ontology/noOfReviews>
+                "540";
+        <https://dbpedia.org/ontology/price>
+                "195";
+        <https://dbpedia.org/ontology/publishedTime>
+                "2015-10-27T20:27:11Z" .

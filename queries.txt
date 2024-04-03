@@ -1,0 +1,107 @@
+#Display course duration for each course
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns/>
+PREFIX dbr:<https://dbpedia.org/resource/>
+PREFIX dbo:<https://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema/>
+select ?course ?duration
+where {
+    ?c rdf:type dbo:Course.
+    ?c rdfs:title ?course.
+    ?c dbo:Content_Duration ?duration.
+}
+
+*****************************************
+
+#Display course, difficulty level and subject of beginner level courses
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns/>
+PREFIX dbr:<https://dbpedia.org/resource/>
+PREFIX dbo:<https://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema/>
+SELECT ?course ?difficulty_level ?subject 
+WHERE {
+    ?c rdf:type dbo:Course.
+    ?c rdfs:title ?course.
+    ?c dbo:belongsTo ?s.
+    ?s rdfs:title ?subject.
+    ?c dbo:hasLevel ?d.
+    ?d rdfs:title ?difficulty_level.
+    FILTER regex(?difficulty_level, "Beginner Level")
+}
+LIMIT 8
+
+
+***********************************************
+
+#Display the price of each course
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns/>
+PREFIX dbr:<https://dbpedia.org/resource/>
+PREFIX dbo:<https://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema/>
+#
+select ?course ?price
+where {
+    ?c rdf:type dbo:Course.
+    ?c rdfs:title ?course.
+    ?c dbo:price ?price.
+}
+
+***********************************************
+
+#Display the course title and its published time
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns/>
+PREFIX dbr:<https://dbpedia.org/resource/>
+PREFIX dbo:<https://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema/>
+select ?course ?publishedTime
+where {
+    ?c rdf:type dbo:Course.
+    ?c rdfs:title ?course.
+    ?c dbo:publishedTime ?publishedTime.
+}
+
+***********************************************
+
+# Display distinct course titles and their subjects
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns/>
+PREFIX dbo:<https://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema/>
+SELECT DISTINCT ?course ?subject
+WHERE {
+    ?c rdf:type dbo:Course.
+    ?c rdfs:title ?course.
+    ?c dbo:belongsTo ?s.
+    ?s rdfs:title ?subject.
+}
+
+***********************************************
+
+#Check if there are any courses related to the subject "Electrical Science"
+PREFIX rdf:<http://www.w3.org/1999/02/22-rdf-syntax-ns/>
+PREFIX dbo:<https://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema/>
+
+ASK
+WHERE {
+    ?c rdf:type dbo:Course.
+    ?c rdfs:title ?course.
+    ?c dbo:belongsTo ?s.
+    ?s rdfs:title ?subject.
+    FILTER (?subject = "Electrical Science")
+}
+
+***********************************************
+
+#Display course titles and subjects for courses belonging to "Web Development"
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns/>
+PREFIX dbo: <https://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema/>
+select ?course ?subject
+WHERE {
+    ?c rdf:type dbo:Course.
+    ?c rdfs:title ?course.
+    ?c dbo:belongsTo ?s.
+    ?s rdfs:title ?subject.
+    FILTER (?subject = "Web Development")
+}
+
+***********************************************
